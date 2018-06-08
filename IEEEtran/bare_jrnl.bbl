@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+
+\bibitem{1}
+J.~Lin, W.~Yu, N.~Zhang, X.~Yang, H.~Zhang, and W.~Zhao, ``A survey on internet
+  of things: Architecture, enabling technologies, security and privacy, and
+  applications,'' {\em IEEE Internet of Things Journal}, vol.~4, no.~5,
+  pp.~1125--1142, 2017.
+
+\bibitem{2}
+M.~Gerla, E.-K. Lee, G.~Pau, and U.~Lee, ``Internet of vehicles: From
+  intelligent grid to autonomous cars and vehicular clouds,'' in {\em Internet
+  of Things (WF-IoT), 2014 IEEE World Forum on}, pp.~241--246, IEEE, 2014.
+
+\bibitem{3}
+X.~Hou, Y.~Li, M.~Chen, D.~Wu, D.~Jin, and S.~Chen, ``Vehicular fog computing:
+  A viewpoint of vehicles as the infrastructures,'' {\em IEEE Transactions on
+  Vehicular Technology}, vol.~65, no.~6, pp.~3860--3873, 2016.
+
+\bibitem{4}
+D.~Mazza, D.~Tarchi, and G.~E. Corazza, ``A unified urban mobile cloud
+  computing offloading mechanism for smart cities,'' {\em IEEE Communications
+  Magazine}, vol.~55, no.~3, pp.~30--37, 2017.
+
+\bibitem{5}
+S.~Yi, C.~Li, and Q.~Li, ``A survey of fog computing: concepts, applications
+  and issues,'' in {\em Proceedings of the 2015 Workshop on Mobile Big Data},
+  pp.~37--42, ACM, 2015.
+
+\bibitem{6}
+T.~Francis and M.~Madhiajagan, ``A comparison of cloud execution mechanisms:
+  Fog, edge and clone cloud computing,'' {\em Proceeding of the Electrical
+  Engineering Computer Science and Informatics}, vol.~4, pp.~446--450, 2017.
+
+\bibitem{7}
+Z.~Zhou, P.~Liu, Z.~Chang, C.~Xu, and Y.~Zhang, ``Energy-efficient workload
+  offloading and power control in vehicular edge computing,'' in {\em Wireless
+  Communications and Networking Conference Workshops (WCNCW), 2018 IEEE},
+  pp.~191--196, IEEE, 2018.
+
+\bibitem{8}
+A.~Bozorgchenani, D.~Tarchi, and G.~E. Corazza, ``An energy and delay-efficient
+  partial offloading technique for fog computing architectures,'' in {\em
+  GLOBECOM 2017-2017 IEEE Global Communications Conference}, pp.~1--6, IEEE,
+  2017.
+
+\bibitem{9}
+X.~Chen, ``Decentralized computation offloading game for mobile cloud
+  computing,'' {\em IEEE Transactions on Parallel and Distributed Systems},
+  vol.~26, no.~4, pp.~974--983, 2015.
+
+\bibitem{10}
+K.~Zhang, Y.~Mao, S.~Leng, Y.~He, and Y.~Zhang, ``Mobile-edge computing for
+  vehicular networks: A promising network paradigm with predictive
+  off-loading,'' {\em IEEE Vehicular Technology Magazine}, vol.~12, no.~2,
+  pp.~36--44, 2017.
+
+\bibitem{11}
+F.~Jalali, K.~Hinton, R.~Ayre, T.~Alpcan, and R.~S. Tucker, ``Fog computing may
+  help to save energy in cloud computing,'' {\em IEEE Journal on Selected Areas
+  in Communications}, vol.~34, no.~5, pp.~1728--1739, 2016.
+
+\bibitem{12}
+T.~H. Luan, L.~Gao, Z.~Li, Y.~Xiang, G.~Wei, and L.~Sun, ``Fog computing:
+  Focusing on mobile users at the edge,'' {\em arXiv preprint
+  arXiv:1502.01815}, 2015.
+
+\bibitem{13}
+M.-H. Chen, M.~Dong, and B.~Liang, ``Resource sharing of a computing access
+  point for multi-user mobile cloud offloading with delay constraints,'' {\em
+  IEEE Transactions on Mobile Computing}, 2018.
+
+\bibitem{14}
+X.~Meng, W.~Wang, and Z.~Zhang, ``Delay-constrained hybrid computation
+  offloading with cloud and fog computing,'' {\em IEEE Access}, vol.~5,
+  pp.~21355--21367, 2017.
+
+\bibitem{15}
+Y.~Mao, J.~Zhang, and K.~B. Letaief, ``Dynamic computation offloading for
+  mobile-edge computing with energy harvesting devices,'' {\em IEEE Journal on
+  Selected Areas in Communications}, vol.~34, no.~12, pp.~3590--3605, 2016.
+
+\bibitem{16}
+R.~Deng, R.~Lu, C.~Lai, T.~H. Luan, and H.~Liang, ``Optimal workload allocation
+  in fog-cloud computing toward balanced delay and power consumption,'' {\em
+  IEEE Internet of Things Journal}, vol.~3, no.~6, pp.~1171--1181, 2016.
+
+\bibitem{17}
+N.~Gautam, {\em Analysis of queues: methods and applications}.
+\newblock CRC Press, 2012.
+
+\bibitem{18}
+W.~Chen, D.~Wang, and K.~Li, ``Multi-user multi-task computation offloading in
+  green mobile edge cloud computing,'' {\em IEEE Transactions on Services
+  Computing}, 2018.
+
+\bibitem{19}
+F.~Tang, B.~Mao, Z.~M. Fadlullah, N.~Kato, O.~Akashi, T.~Inoue, and
+  K.~Mizutani, ``On removing routing protocol from future wireless networks: A
+  real-time deep learning approach for intelligent traffic control,'' {\em IEEE
+  Wireless Communications}, vol.~25, no.~1, pp.~154--160, 2018.
+
+\bibitem{20}
+B.~Mao, Z.~M. Fadlullah, F.~Tang, N.~Kato, O.~Akashi, T.~Inoue, and
+  K.~Mizutani, ``Routing or computing? the paradigm shift towards intelligent
+  computer network packet transmission based on deep learning,'' {\em IEEE
+  Transactions on Computers}, vol.~66, no.~11, pp.~1946--1960, 2017.
+
+\bibitem{21}
+L.~Wei, Z.~Zhang, D.~Zhang, and S.~C. Leung, ``A simulated annealing algorithm
+  for the capacitated vehicle routing problem with two-dimensional loading
+  constraints,'' {\em European Journal of Operational Research}, vol.~265,
+  no.~3, pp.~843--859, 2018.
+
+\end{thebibliography}
